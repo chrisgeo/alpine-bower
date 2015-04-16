@@ -12,3 +12,10 @@ Sizes
 ======
 | alipine-bower | 34.15 MB |
 | sesteva/private-bower | 5114 MB |
+
+
+Private Bower Setup Instructions
+==============
+
+You can go through the configuration options [here](https://www.npmjs.com/package/private-bower) to setup the repository as you see fit
+
